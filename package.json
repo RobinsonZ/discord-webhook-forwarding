@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "discord-webhook-forwarding",
+  "version": "1.0.0",
+  "description": "Forward Cronitor events to a Discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Swarthmore College Computer Society",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

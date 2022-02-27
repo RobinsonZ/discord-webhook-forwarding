@@ -1,0 +1,8 @@
+name = "discord-webhook-forwarding"
+type = "javascript"
+
+account_id = "8afed8f4b546fbf47703447aec704351"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-02-27"
